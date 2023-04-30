@@ -25,4 +25,4 @@ The Golang-based Simple Note-taking API project aims to achieve the following go
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
